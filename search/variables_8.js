@@ -51,7 +51,6 @@ var searchData=
   ['hpregen_48',['hpRegen',['../structRegenData.html#a38c35ea93500d9a96c9efe26b50c74cd',1,'RegenData']]],
   ['hpspellregen_49',['hpSpellRegen',['../structRegenData.html#a2f133dac995a8bb4c11b4b9d4549cb1b',1,'RegenData']]],
   ['hres_50',['hres',['../structPCXHeader.html#a182817b2b03ff8e33f15b0122c859a19',1,'PCXHeader']]],
-  ['hw_5fsprites_51',['hw_sprites',['../classSpriteFrame.html#a97ed373b263df04fcad7c933c104dfeb',1,'SpriteFrame']]],
-  ['hwsprite_52',['hwsprite',['../structRenderBillboard.html#a0a19983757101fd9c21b5859f972b901',1,'RenderBillboard']]],
-  ['hwspriteids_53',['hwSpriteIds',['../structSpriteFrame__MM6.html#ae7dd515fd0dc0b6d61ecc92b28698a47',1,'SpriteFrame_MM6']]]
+  ['hwsprite_51',['hwsprite',['../structRenderBillboard.html#a0a19983757101fd9c21b5859f972b901',1,'RenderBillboard']]],
+  ['hwspriteids_52',['hwSpriteIds',['../structSpriteFrame__MM6.html#ae7dd515fd0dc0b6d61ecc92b28698a47',1,'SpriteFrame_MM6']]]
 ];
