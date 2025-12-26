@@ -31,7 +31,7 @@ var searchData=
   ['fill_28',['fill',['../classIndexedBitset.html#a9b682cb4eea3423d356c7a466d0876ff',1,'IndexedBitset::fill()'],['../classdetail_1_1ImageBase.html#a2450b6088200d7a70af396a1c9b37a2a',1,'detail::ImageBase::fill()']]],
   ['fillawardsdata_29',['fillAwardsData',['../classGUIWindow__CharacterRecord.html#a5a6b011148a2af29855b7656a08351b0',1,'GUIWindow_CharacterRecord']]],
   ['fillplayerdeck_30',['FillPlayerDeck',['../Arcomage_8cpp.html#aff323d609f72253722d763befcdc1503',1,'Arcomage.cpp']]],
-  ['fillrectfast_31',['FillRectFast',['../classRenderer.html#a78fb22667acefa0d3e20b9070dd6d851',1,'Renderer']]],
+  ['fillrect_31',['FillRect',['../classRenderer.html#abd1d068af85549b19b780a2e7d5c03fe',1,'Renderer']]],
   ['filltable_32',['fillTable',['../classTileGenerator.html#a5085c22b57ea383fd47ec976aee47d17',1,'TileGenerator']]],
   ['filter_33',['filter',['../classAccessible.html#ae7eee5b9fecef91e33b47ed829fe728a',1,'Accessible']]],
   ['finalinitialization_34',['FinalInitialization',['../Engine_8h.html#a265e1720d11ca6f175d7adbb3410597e',1,'FinalInitialization():&#160;Engine.cpp'],['../Engine_8cpp.html#a265e1720d11ca6f175d7adbb3410597e',1,'FinalInitialization():&#160;Engine.cpp']]],
