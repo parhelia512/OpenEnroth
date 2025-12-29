@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['object_5fpid_0',['object_pid',['../structRenderBillboardD3D.html#ab7ceba4d336630fc6283127b5fd35393',1,'RenderBillboardD3D::object_pid()'],['../structRenderBillboard.html#a771b6be082797b2cf919eaed13e5b19f',1,'RenderBillboard::object_pid()'],['../structVis__ObjectInfo.html#a98fd2d198728518188e77873439d4cae',1,'Vis_ObjectInfo::object_pid()']]],
+  ['object_5fpid_0',['object_pid',['../structVis__ObjectInfo.html#a98fd2d198728518188e77873439d4cae',1,'Vis_ObjectInfo::object_pid()'],['../structRenderBillboard.html#a771b6be082797b2cf919eaed13e5b19f',1,'RenderBillboard::object_pid()']]],
   ['object_5fpointers_1',['object_pointers',['../structVis__SelectionList.html#ac5c2865db8a6351150c3ba3feb2a36a9',1,'Vis_SelectionList']]],
   ['object_5fpool_2',['object_pool',['../structVis__SelectionList.html#aa680a7e157b79ed3b0be86e7f4e81ece',1,'Vis_SelectionList']]],
   ['object_5ftype_3',['object_type',['../structVis__SelectionFilter.html#a0cbe861a70212007149579c408f68795',1,'Vis_SelectionFilter::object_type()'],['../structVis__ObjectInfo.html#a1a87c2750a9f1a3bbc3071ffd7536b11',1,'Vis_ObjectInfo::object_type()']]],
@@ -34,8 +34,8 @@ var searchData=
   ['output_31',['output',['../structLodToolOptions_1_1ExtractOptions.html#acf355e2f235ca1679ced30ddaa5932e4',1,'LodToolOptions::ExtractOptions']]],
   ['outputpresent_32',['outputPresent',['../classBaseRenderer.html#acc5cebdb8057cfe47ff2683575bcb2b2',1,'BaseRenderer']]],
   ['outputrender_33',['outputRender',['../classBaseRenderer.html#aad3378f6fef0acc26f608ab73f08ec45',1,'BaseRenderer']]],
-  ['overlayid_34',['overlayId',['../structSpellBuff__MM7.html#a0b20ebfff0491f10f19c2e4769ccca66',1,'SpellBuff_MM7']]],
-  ['overlayid_35',['overlayID',['../structSpellBuff.html#a71246715e120b97bffc46a7f6941ce6e',1,'SpellBuff']]],
+  ['overlayid_34',['overlayID',['../structSpellBuff.html#a71246715e120b97bffc46a7f6941ce6e',1,'SpellBuff']]],
+  ['overlayid_35',['overlayId',['../structSpellBuff__MM7.html#a0b20ebfff0491f10f19c2e4769ccca66',1,'SpellBuff_MM7']]],
   ['overlaylogcategory_36',['OverlayLogCategory',['../classOverlaySystem.html#ad4131de87a4b8ac0c56a22da605612a2',1,'OverlaySystem']]],
   ['overlays_37',['overlays',['../structActiveOverlayList__MM7.html#a0adcd441f7eec0513d8d911cd19059d8',1,'ActiveOverlayList_MM7::overlays()'],['../structSaveGame__MM7.html#a7554f18d1fb01cec9dfdb1c2f37db998',1,'SaveGame_MM7::overlays()']]],
   ['overridebuiltinresources_38',['OverrideBuiltInResources',['../classGameConfig_1_1Debug.html#a3c52101eeba4608c82f544e8b2938b58',1,'GameConfig::Debug']]],
